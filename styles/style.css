@@ -1152,7 +1152,7 @@ html, body {
 
 @media(max-width: 388px) {
   .basic__header-title{
-    font-size: 23px;
+    font-size: 26px;
   }
   .header {
     height: 600px;
